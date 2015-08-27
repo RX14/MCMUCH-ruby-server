@@ -1,5 +1,6 @@
 MCMUCH Server (Ruby)
 ====================
+We are using Ruby version 2.2.2
 
 This is the server for MCMUCH, written in Ruby.
 The original idea was to use Node.js, but we got stuck in callback hell.
